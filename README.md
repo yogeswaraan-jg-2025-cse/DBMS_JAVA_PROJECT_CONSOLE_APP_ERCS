@@ -16,6 +16,7 @@ ERCS is a **Core Java and MySQL console application** that demonstrates the prac
 - [System Architecture](#system-architecture)
 - [Project Structure](#project-structure)
 - [Database Design](#database-design)
+- [ER Diagram, Functional Dependencies, and Relational Algebra](docs/database_design.md)
 - [Decision Logic](#decision-logic)
 - [Prerequisites](#prerequisites)
 - [Setup and Execution](#setup-and-execution)
